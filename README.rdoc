@@ -6,6 +6,10 @@ gateway helpers that follow AMF0/3 messaging specs, and a suite of specs to
 ensure adherence to the specification documents put out by Adobe. In addition,
 it now fully supports Ruby 1.9.
 
+== Reason for fork
+
+warhammerkid's version fails on Ruby 1.8.6
+
 == INSTALL:
 
   gem install RocketAMF --source="http://gemcutter.org"
